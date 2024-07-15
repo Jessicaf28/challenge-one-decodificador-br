@@ -1,30 +1,20 @@
-# Challenge ONE | Lógica de Programação | Decodificador de texto
-### Seja bem vindo ao projeto base do Decodificador de texto! Passos fundamentais:
-
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/157673876-2c51fc09-5bed-48c0-aad3-97fc7fa64d1d.png">
-</p>
-
-#### Marque esse projeto com uma estrela ⭐
-#### Siga as instruções das aulas e conteúdos 📚
-
----
-
-## Como listar o meu projeto neste Challenge?
----
-
-1) Publique o projeto no GitHub
-2) Publica no GitHub Pages: [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages) 
-
-## Como realizar a entrega final do meu projeto?
----
-
-4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
-🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
-
-![image](https://user-images.githubusercontent.com/92184087/208179699-a9fc5b9e-c9b5-4dab-a711-43ddfbcd00d0.png)
-
-5) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
-6) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
-
-    <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+Decodificador-de-Texto
+Este projeto trata-se de uma aplicação web simples que criptografa e descriptografa textos utilizando um método específico de substituição de letras.
+Ele permite que você troque mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
+Descrição - Regras de Criptografia:
+A letra "e" é convertida para "enter"
+A letra "i" é convertida para "imes"
+A letra "a" é convertida para "ai"
+A letra "o" é convertida para "ober"
+A letra "u" é convertida para "ufat"
+Requisitos:
+A aplicação deve funcionar apenas com letras minúsculas.
+Não devem ser utilizados letras com acentos nem caracteres especiais.
+Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+Por exemplo:
+"gato" => "gaitober"
+"gaitober" => "gato"
+Ferramentas Utilizadas
+Visual Studio Code: Editor de código usado para desenvolver o projeto.
+HTML: Estrutura básica da página web.
+CSS: Estilização da página web.
